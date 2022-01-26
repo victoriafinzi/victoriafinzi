@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Victória Finzi 🐱
 <div align="center">
   <a href="https://github.com/victoriafinzi">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriafinzi&layout=compact&langs_count=7&theme=omni"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriafinzi&layout=compact&langs_count=7&theme=omni"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Viq-Js" height="30" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
