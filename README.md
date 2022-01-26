@@ -1,14 +1,14 @@
 ## Olá! Eu sou a Victória Finzi 🐱
 <div align="center">
   <a href="https://github.com/victoriafinzi">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriafinzi&layout=compact&langs_count=7&theme=omni"/>
+  <img height="150em" img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriafinzi&layout=compact&langs_count=7&theme=omni"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Viq-Js" height="30" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Viq-HTML" height="30" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Viq-CSS" height="30" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Viq-Csharp" height="30" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" src="https://i.picasion.com/pic91/d5053f9deecfab14aacad086eed7f262.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br />
+  <img align="right" src="https://i.picasion.com/pic91/d5053f9deecfab14aacad086eed7f262.gif" width="120" height="150" border="0" alt="https://picasion.com/" /></a><br />
 </div>
   
   ##
