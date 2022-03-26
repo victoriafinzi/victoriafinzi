@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/victoriafinzi">
-  <img height="150em" img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriafinzi&layout=compact&langs_count=7&theme=omni"/>
+  <img height="150em" img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriafinzi&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Viq-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
