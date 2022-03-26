@@ -1,4 +1,10 @@
-## Olá! Eu sou a Victória Finzi 🐱
+## Hi there! I'm Viq 🐱
+
+
+:woman_technologist: I'm a backend developer at CloudOpss Solutions <br />
+:books: I'm a student of System Developer/Analyst <br />
+:video_game: And when I am not programming or studying I'm playing some video-game <br />
+
 <div align="center">
   <a href="https://github.com/victoriafinzi">
   <img height="150em" img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriafinzi&layout=compact&langs_count=7&theme=omni"/>
@@ -15,9 +21,9 @@
   ##
  
 <div> 
- <a href="https://discord.gg/Viq#0863" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href = "mailto:victoria.finzi15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/victoria-c-a119b71b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/Viq#0863" target="_blank"><img alt="discord" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/discord-logo.png"/></a>
+ <a href = "mailto:victoria.finzi15@gmail.com"><img alt="gmail" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/cloud-mail.png"/></a>
+  <a href="https://www.linkedin.com/in/victoria-c-a119b71b4/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 
  
 </div>
