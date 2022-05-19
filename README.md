@@ -1,9 +1,10 @@
 ## Hi there! I'm Viq 🐱
 
 
-:woman_technologist: I'm a backend developer at CloudOpss Solutions <br />
-:books: I'm a student of System Developer/Analyst <br />
-:video_game: And when I am not programming or studying I'm playing some video-game <br />
+:woman_technologist: I'm a backend and mobile developer at CloudOpss Solutions <br />
+:books: I'm currently studying systems analysis and development<br />
+:woman_scientist: And also I'm a Biotechnologist with genetic knowledge! < /br>
+:video_game: Similarly random to my technical knowledge, I love cats, cooking and pwning some noobs in video-game 😅  <br />
 
 <div align="center">
   <a href="https://github.com/victoriafinzi">
