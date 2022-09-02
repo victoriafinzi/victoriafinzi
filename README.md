@@ -1,7 +1,7 @@
 ## Hi there! I'm Viq 🐱
 
 
-:woman_technologist: I'm a backend and mobile developer at CloudOpss Solutions <br />
+:woman_technologist: I'm a backend developer python<br />
 :books: I'm a student of systems analysis and development<br />
 :woman_scientist: And also a Biotechnologist with genetic knowledge! <br />
 :video_game: Similarly random to my technical knowledge, I love cats, cooking and pwning some noobs in video-game 😅
